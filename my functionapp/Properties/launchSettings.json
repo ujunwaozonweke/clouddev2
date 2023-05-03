@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Trig2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7141",
+      "launchBrowser": false
+    }
+  }
+}

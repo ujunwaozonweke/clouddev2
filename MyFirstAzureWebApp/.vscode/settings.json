@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/dece46fa-0bb6-4217-bd07-1867855aa155/resourceGroups/MotionSensor/providers/Microsoft.Web/sites/ujuappservice"
+}

@@ -1,0 +1,13 @@
+"AzureEventHubConnectionString": "Endpoint=sb://ihsuprodlnres014dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=+/j3xlkcSWUFIiG573/rP/K7tEYZyj45t0rxPl36Ilg=;EntityPath=iothub-ehub-ujunwamoti-24944125-ed5c6ab490",
+    "cosmosDBConnectionString": "AccountEndpoint=https://ujunwacdb.documents.azure.com:443/;AccountKey=WSlpiIpmYU0lDILMQI7pFhJUEqmtq6ZqJkcBmkvUZOKPowmnHWb0TSIr9mLGMm1M4aF2ZwcyxfJiACDbAtFbzA==;" 
+
+//function url
+http://localhost:7071/api/position/
+
+//webapp url
+
+https://localhost:5001
+
+//YouTube url
+
+https://youtu.be/oQUUkPibZg8
